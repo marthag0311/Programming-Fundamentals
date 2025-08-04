@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVu/gtgAZfZkKzWbU43bbiItA1NqUed3caEMXpsoiKCLf9V/ptU7kr8VqkmJ1uwmZ460NDyryjnENTtR20b4ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\03 Largest\\03 Largest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
