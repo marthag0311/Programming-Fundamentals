@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\names.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\00 Trial Exam.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\00 Trial Exam.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\00 Trial Exam.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\00 Trial Exam.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\00 Trial Exam.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\bin\Debug\netcoreapp3.1\00 Trial Exam.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Trial Exam\obj\Debug\netcoreapp3.1\00 Trial Exam.genruntimeconfig.cache

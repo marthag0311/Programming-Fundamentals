@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\bin\Debug\net6.0\00 Sum of a Digit.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\bin\Debug\net6.0\00 Sum of a Digit.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\bin\Debug\net6.0\00 Sum of a Digit.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\bin\Debug\net6.0\00 Sum of a Digit.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\bin\Debug\net6.0\00 Sum of a Digit.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\refint\00 Sum of a Digit.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\00 Sum of a Digit.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Sum of a Digit\obj\Debug\net6.0\ref\00 Sum of a Digit.dll
