@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\bin\Debug\netcoreapp3.1\03 Negative.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\bin\Debug\netcoreapp3.1\03 Negative.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\bin\Debug\netcoreapp3.1\03 Negative.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\bin\Debug\netcoreapp3.1\03 Negative.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\bin\Debug\netcoreapp3.1\03 Negative.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\bin\Debug\netcoreapp3.1\03 Negative.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Negative\obj\Debug\netcoreapp3.1\03 Negative.genruntimeconfig.cache

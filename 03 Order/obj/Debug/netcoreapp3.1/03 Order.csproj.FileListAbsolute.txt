@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\bin\Debug\netcoreapp3.1\03 Order.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\bin\Debug\netcoreapp3.1\03 Order.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\bin\Debug\netcoreapp3.1\03 Order.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\bin\Debug\netcoreapp3.1\03 Order.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\bin\Debug\netcoreapp3.1\03 Order.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\bin\Debug\netcoreapp3.1\03 Order.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\03 Order\obj\Debug\netcoreapp3.1\03 Order.genruntimeconfig.cache
