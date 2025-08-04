@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\bin\Debug\netcoreapp3.1\01 Lowercase.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\bin\Debug\netcoreapp3.1\01 Lowercase.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\bin\Debug\netcoreapp3.1\01 Lowercase.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\bin\Debug\netcoreapp3.1\01 Lowercase.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\bin\Debug\netcoreapp3.1\01 Lowercase.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\bin\Debug\netcoreapp3.1\01 Lowercase.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Lowercase\obj\Debug\netcoreapp3.1\01 Lowercase.genruntimeconfig.cache

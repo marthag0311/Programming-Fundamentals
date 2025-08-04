@@ -1,0 +1,13 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\bin\Debug\netcoreapp3.1\01 Hello World.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\bin\Debug\netcoreapp3.1\01 Hello World.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\bin\Debug\netcoreapp3.1\01 Hello World.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\bin\Debug\netcoreapp3.1\01 Hello World.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\bin\Debug\netcoreapp3.1\01 Hello World.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\bin\Debug\netcoreapp3.1\01 Hello World.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Hello World\obj\Debug\netcoreapp3.1\01 Hello World.csprojAssemblyReference.cache

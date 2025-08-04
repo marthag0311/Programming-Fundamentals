@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\bin\Debug\netcoreapp3.1\01 Nice To Meet You.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\bin\Debug\netcoreapp3.1\01 Nice To Meet You.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\bin\Debug\netcoreapp3.1\01 Nice To Meet You.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\bin\Debug\netcoreapp3.1\01 Nice To Meet You.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\bin\Debug\netcoreapp3.1\01 Nice To Meet You.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\bin\Debug\netcoreapp3.1\01 Nice To Meet You.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\01 Nice To Meet You\obj\Debug\netcoreapp3.1\01 Nice To Meet You.genruntimeconfig.cache
