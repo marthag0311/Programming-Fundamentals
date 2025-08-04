@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\bin\Debug\netcoreapp3.1\00 Isomorphic EQ.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\bin\Debug\netcoreapp3.1\00 Isomorphic EQ.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\bin\Debug\netcoreapp3.1\00 Isomorphic EQ.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\bin\Debug\netcoreapp3.1\00 Isomorphic EQ.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\bin\Debug\netcoreapp3.1\00 Isomorphic EQ.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\bin\Debug\netcoreapp3.1\00 Isomorphic EQ.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\00 Isomorphic EQ\obj\Debug\netcoreapp3.1\00 Isomorphic EQ.genruntimeconfig.cache

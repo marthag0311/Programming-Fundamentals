@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 Isomorphic EQ", "00 Isomorphic EQ.csproj", "{70232444-131F-4181-AEBB-503A877609FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70232444-131F-4181-AEBB-503A877609FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70232444-131F-4181-AEBB-503A877609FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70232444-131F-4181-AEBB-503A877609FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70232444-131F-4181-AEBB-503A877609FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8589F5-291A-44A7-AA1B-BFC748F005D9}
+	EndGlobalSection
+EndGlobal
