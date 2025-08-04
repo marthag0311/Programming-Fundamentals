@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\bin\Debug\netcoreapp3.1\02 Decimal Part.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\bin\Debug\netcoreapp3.1\02 Decimal Part.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\bin\Debug\netcoreapp3.1\02 Decimal Part.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\bin\Debug\netcoreapp3.1\02 Decimal Part.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\bin\Debug\netcoreapp3.1\02 Decimal Part.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\bin\Debug\netcoreapp3.1\02 Decimal Part.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 Decimal Part\obj\Debug\netcoreapp3.1\02 Decimal Part.genruntimeconfig.cache
