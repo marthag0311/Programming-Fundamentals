@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\bin\Debug\netcoreapp3.1\02 REVERSE.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\bin\Debug\netcoreapp3.1\02 REVERSE.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\bin\Debug\netcoreapp3.1\02 REVERSE.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\bin\Debug\netcoreapp3.1\02 REVERSE.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\bin\Debug\netcoreapp3.1\02 REVERSE.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\bin\Debug\netcoreapp3.1\02 REVERSE.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\02 REVERSE\obj\Debug\netcoreapp3.1\02 REVERSE.genruntimeconfig.cache
