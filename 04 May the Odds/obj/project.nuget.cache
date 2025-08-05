@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctsxTxGAzUTY5hp2k5265ex1bzr8eb51wXdtVpDm8M1xe7mTpZqEf74NX/FdPhldlGku6Oy/2RYfVeqxs+xdPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\04 May the Odds\\04 May the Odds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
