@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\bin\Debug\netcoreapp3.1\06 Insert.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\bin\Debug\netcoreapp3.1\06 Insert.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\bin\Debug\netcoreapp3.1\06 Insert.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\bin\Debug\netcoreapp3.1\06 Insert.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\bin\Debug\netcoreapp3.1\06 Insert.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\bin\Debug\netcoreapp3.1\06 Insert.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Insert\obj\Debug\netcoreapp3.1\06 Insert.genruntimeconfig.cache

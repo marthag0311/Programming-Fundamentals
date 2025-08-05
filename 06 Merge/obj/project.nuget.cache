@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubeQkOC3GxvdondZFgPyf3Q+D+n8yKmqGOMrRsQ0ZZFAIfLHMu5r/heSvZkhT4AuQW7AYmqZ24dnaLgpijVlyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\06 Merge\\06 Merge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

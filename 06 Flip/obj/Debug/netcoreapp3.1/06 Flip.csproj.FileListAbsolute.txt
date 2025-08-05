@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\bin\Debug\netcoreapp3.1\06 Flip.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\bin\Debug\netcoreapp3.1\06 Flip.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\bin\Debug\netcoreapp3.1\06 Flip.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\bin\Debug\netcoreapp3.1\06 Flip.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\bin\Debug\netcoreapp3.1\06 Flip.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\bin\Debug\netcoreapp3.1\06 Flip.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\06 Flip\obj\Debug\netcoreapp3.1\06 Flip.genruntimeconfig.cache
