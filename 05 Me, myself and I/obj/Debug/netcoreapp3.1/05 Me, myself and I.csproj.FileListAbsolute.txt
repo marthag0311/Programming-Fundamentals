@@ -1,0 +1,34 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\05 Me, myself and I.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\05 Me, myself and I.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\05 Me, myself and I.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\05 Me, myself and I.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\05 Me, myself and I.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\05 Me, myself and I.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\obj\Debug\netcoreapp3.1\05 Me, myself and I.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\ArianaGrande.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\Beyonce.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\BillieEilish.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\BTS.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\CardiB.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\ColdPlay.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\Drake.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\DuaLipa.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\EdSheeran.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\Eminem.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\JustinBieber.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\KatyPerry.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\Khalid.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\LadyGaga.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\Maroon5.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\NickiMinaj.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\PostMalone.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\Rihanna.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\SelenaGomez.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Me, myself and I\bin\Debug\netcoreapp3.1\TaylorSwift.txt
