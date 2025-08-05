@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\bin\Debug\netcoreapp3.1\04 Smallest.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\bin\Debug\netcoreapp3.1\04 Smallest.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\bin\Debug\netcoreapp3.1\04 Smallest.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\bin\Debug\netcoreapp3.1\04 Smallest.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\bin\Debug\netcoreapp3.1\04 Smallest.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\bin\Debug\netcoreapp3.1\04 Smallest.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Smallest\obj\Debug\netcoreapp3.1\04 Smallest.genruntimeconfig.cache
