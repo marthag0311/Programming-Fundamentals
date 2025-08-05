@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEvY//eL+ru5TcSFqZva39l/BusqiMlxHTiSVB0q9z755p0VYHT7yLqZivvumxx9w/Rb2/1woS0suvmt3TKMGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\06 Rotate\\06 Rotate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
