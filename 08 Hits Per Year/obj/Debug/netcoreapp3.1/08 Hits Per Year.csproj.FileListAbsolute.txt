@@ -1,0 +1,34 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\ArianaGrande.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\Beyonce.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\BillieEilish.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\BTS.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\CardiB.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\ColdPlay.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\Drake.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\DuaLipa.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\EdSheeran.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\Eminem.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\JustinBieber.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\KatyPerry.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\Khalid.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\LadyGaga.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\Maroon5.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\NickiMinaj.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\PostMalone.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\Rihanna.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\SelenaGomez.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\TaylorSwift.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\08 Hits Per Year.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\08 Hits Per Year.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\08 Hits Per Year.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\08 Hits Per Year.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\08 Hits Per Year.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\bin\Debug\netcoreapp3.1\08 Hits Per Year.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Hits Per Year\obj\Debug\netcoreapp3.1\08 Hits Per Year.genruntimeconfig.cache
