@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\bin\Debug\netcoreapp3.1\04 Floyd's Triangle.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\bin\Debug\netcoreapp3.1\04 Floyd's Triangle.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\bin\Debug\netcoreapp3.1\04 Floyd's Triangle.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\bin\Debug\netcoreapp3.1\04 Floyd's Triangle.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\bin\Debug\netcoreapp3.1\04 Floyd's Triangle.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\bin\Debug\netcoreapp3.1\04 Floyd's Triangle.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Floyd's Triangle\obj\Debug\netcoreapp3.1\04 Floyd's Triangle.genruntimeconfig.cache

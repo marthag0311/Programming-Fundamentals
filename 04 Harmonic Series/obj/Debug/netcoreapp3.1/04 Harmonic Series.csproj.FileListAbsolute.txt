@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\bin\Debug\netcoreapp3.1\04 Harmonic Series.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\bin\Debug\netcoreapp3.1\04 Harmonic Series.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\bin\Debug\netcoreapp3.1\04 Harmonic Series.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\bin\Debug\netcoreapp3.1\04 Harmonic Series.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\bin\Debug\netcoreapp3.1\04 Harmonic Series.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\bin\Debug\netcoreapp3.1\04 Harmonic Series.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Harmonic Series\obj\Debug\netcoreapp3.1\04 Harmonic Series.genruntimeconfig.cache
