@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\bin\Debug\netcoreapp3.1\05 Punctuation.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\bin\Debug\netcoreapp3.1\05 Punctuation.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\bin\Debug\netcoreapp3.1\05 Punctuation.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\bin\Debug\netcoreapp3.1\05 Punctuation.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\bin\Debug\netcoreapp3.1\05 Punctuation.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\bin\Debug\netcoreapp3.1\05 Punctuation.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Punctuation\obj\Debug\netcoreapp3.1\05 Punctuation.genruntimeconfig.cache
