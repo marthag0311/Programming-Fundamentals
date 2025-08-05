@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\bin\Debug\netcoreapp3.1\07 Polynomial.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\bin\Debug\netcoreapp3.1\07 Polynomial.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\bin\Debug\netcoreapp3.1\07 Polynomial.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\bin\Debug\netcoreapp3.1\07 Polynomial.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\bin\Debug\netcoreapp3.1\07 Polynomial.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\bin\Debug\netcoreapp3.1\07 Polynomial.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Polynomial\obj\Debug\netcoreapp3.1\07 Polynomial.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KiAkFpFuGvABSoiN3sHGIwA0P1N7pb4kcjoDhWIoCEQNP9TV2FAVFVfeFO4MeaNSG6grrwQrHhQFs5XZzFsULw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\07 Polybius\\07 Polybius.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

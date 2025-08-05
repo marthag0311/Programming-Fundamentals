@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yhf365whN3ozv1NWy0z20MWKyAVJCcXZmAL/ybTuV5Vw2eF1ExViuQDs2PQsWEvt2d8I2ffKcJRj8KbbcuoUcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\07 Polynomial\\07 Polynomial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
