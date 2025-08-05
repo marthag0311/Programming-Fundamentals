@@ -1,0 +1,28 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.genruntimeconfig.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\SECOND YEAR\01 Semester\Programming\09 METHODS\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\bin\Debug\netcoreapp3.1\MONSTER.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\09 Monster\MONSTER\obj\Debug\netcoreapp3.1\MONSTER.genruntimeconfig.cache
