@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\bin\Debug\netcoreapp3.1\04 Prime Numbers.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\bin\Debug\netcoreapp3.1\04 Prime Numbers.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\bin\Debug\netcoreapp3.1\04 Prime Numbers.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\bin\Debug\netcoreapp3.1\04 Prime Numbers.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\bin\Debug\netcoreapp3.1\04 Prime Numbers.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\bin\Debug\netcoreapp3.1\04 Prime Numbers.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\04 Prime Numbers\obj\Debug\netcoreapp3.1\04 Prime Numbers.genruntimeconfig.cache
