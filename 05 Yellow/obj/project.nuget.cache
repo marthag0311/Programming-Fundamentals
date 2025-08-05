@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ED4ANzDGgG2VpEyr6Aw636/CT/QDe8GTVHuB69MhvUfyZTEEy5G+chsRF4f37TxNfHWe4bqKoKM3BH4FkcgUAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\05 Yellow\\05 Yellow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

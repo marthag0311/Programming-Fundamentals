@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQzNd4KEwUQo4vZFiqzQiHGA7fTJiObOuyFdtB2rX/X0WcLydGIkw1Tf4GotzEHWBgMb2xH2jmS79ZXrEqbxWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\05 Word Nest\\05 Word Nest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

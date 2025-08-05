@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\bin\Debug\netcoreapp3.1\05 Word Nest.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\bin\Debug\netcoreapp3.1\05 Word Nest.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\bin\Debug\netcoreapp3.1\05 Word Nest.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\bin\Debug\netcoreapp3.1\05 Word Nest.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\bin\Debug\netcoreapp3.1\05 Word Nest.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\bin\Debug\netcoreapp3.1\05 Word Nest.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Word Nest\obj\Debug\netcoreapp3.1\05 Word Nest.genruntimeconfig.cache
