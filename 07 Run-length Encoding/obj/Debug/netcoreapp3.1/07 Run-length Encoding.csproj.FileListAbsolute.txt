@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\bin\Debug\netcoreapp3.1\07 Run-length Encoding.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\bin\Debug\netcoreapp3.1\07 Run-length Encoding.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\bin\Debug\netcoreapp3.1\07 Run-length Encoding.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\bin\Debug\netcoreapp3.1\07 Run-length Encoding.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\bin\Debug\netcoreapp3.1\07 Run-length Encoding.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\bin\Debug\netcoreapp3.1\07 Run-length Encoding.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\07 Run-length Encoding\obj\Debug\netcoreapp3.1\07 Run-length Encoding.genruntimeconfig.cache

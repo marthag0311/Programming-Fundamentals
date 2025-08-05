@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tr/hxTdKOd9nmOAyH2Kc0/gMklCmHuLAjYx5clJUFL7JAC7j66xlKA85pxrJG3MDhpLLtiSfufeH1459eTPKPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\07 Run-length Encoding\\07 Run-length Encoding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
