@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\bin\Debug\netcoreapp3.1\05 Duplicates.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\bin\Debug\netcoreapp3.1\05 Duplicates.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\bin\Debug\netcoreapp3.1\05 Duplicates.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\bin\Debug\netcoreapp3.1\05 Duplicates.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\bin\Debug\netcoreapp3.1\05 Duplicates.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\bin\Debug\netcoreapp3.1\05 Duplicates.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\05 Duplicates\obj\Debug\netcoreapp3.1\05 Duplicates.genruntimeconfig.cache
