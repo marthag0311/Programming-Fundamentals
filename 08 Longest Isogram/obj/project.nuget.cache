@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GGtm8GjjLGZs395wyEdaGVFvzkbpIOg/1QwJNdAF1cBpg8N8xqo8z1/Ppi/oMHqPuY5FslyqecJa6C70WM2/HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Thomas More\\Bachelor Degree\\THIRD YEAR\\01 1st Semester\\Programming Fundamentals WE&PE\\08 Longest Isogram\\08 Longest Isogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

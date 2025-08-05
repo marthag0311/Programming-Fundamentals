@@ -1,0 +1,20 @@
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\CameraObscura.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\DeRoos.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\DeStilleKracht.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\DeVolmaakte.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\LoremIpsum.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\MaxHavelaar.txt
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\08 Longest Isogram.exe
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\08 Longest Isogram.deps.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\08 Longest Isogram.runtimeconfig.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\08 Longest Isogram.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\08 Longest Isogram.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\bin\Debug\netcoreapp3.1\08 Longest Isogram.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.AssemblyInfo.cs
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.dll
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.pdb
+C:\Users\user\OneDrive - Thomas More\Bachelor Degree\THIRD YEAR\01 1st Semester\Programming Fundamentals WE&PE\08 Longest Isogram\obj\Debug\netcoreapp3.1\08 Longest Isogram.genruntimeconfig.cache
